@@ -1,3 +1,4 @@
+# python -m pip install --upgrade ipywidgets jupyter
 ipykernel==7.4.0
 pandas==3.0.6
 numpy==2.5.3
